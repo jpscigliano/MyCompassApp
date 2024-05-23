@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCompassApp</string>
+
+    <string name="every_10th_title">Every 10th Characters</string>
+    <string name="characters_count_title">Characters count</string>
+    <string name="run">RUN</string>
+
+    <string name="every_10th_error">Ups! Unable to load the every 10th request</string>
+    <string name="characters_count_error">Ups! Unable to load the word counter request</string>
+</resources>
